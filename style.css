@@ -57,11 +57,12 @@ body{
 .circle{
 	width:60px;
 	height:60px;
-	border-radius:50%
-	background-color:white;
+	border-radius:50%;
+	background-color: white; 
 	font-size:40px;
 	display: inline-block;
 	text-align: center;
 	color:#00FFF6;
-
 }
+
+
